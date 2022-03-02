@@ -6,4 +6,5 @@ This repo consists of code related to Data Structures and Algorithms using Java.
 
 1. [Bubble Sort](https://github.com/Sahil3343/Data-Structures-Algorithms/blob/master/src/com/sahilmahajan/dsa/SortingAlgorithms/BubbleSort.java)
 2. [Selection Sort](https://github.com/Sahil3343/Data-Structures-Algorithms/blob/master/src/com/sahilmahajan/dsa/SortingAlgorithms/SelectionSort.java)
+3. [Insertion Sort](https://github.com/Sahil3343/Data-Structures-Algorithms/blob/master/src/com/sahilmahajan/dsa/SortingAlgorithms/InsertionSort.java)
 
